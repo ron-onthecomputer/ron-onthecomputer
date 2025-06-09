@@ -1,4 +1,4 @@
-## Hi there, I'm R0n 👋
+## Hi there, I'm Ron 👋
 
 - 🔭 An aspiring Fullstack Developer
 - 🚀 [Visit my Portfolio](https://ron-onthecomputer.github.io/portfolio/)
