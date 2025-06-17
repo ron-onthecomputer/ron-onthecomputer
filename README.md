@@ -1,7 +1,7 @@
 ## Hi there, I'm Ron 👋
 
 - 🔭 An aspiring Fullstack Developer
-- 🚀 [Visit my Portfolio](https://ron-onthecomputer.github.io/portfolio/)
+- 🚀 [Check Out My Portfolio](https://ron-onthecomputer.github.io/portfolio/)
 - 🌱 I’m currently learning React
 - ⚡ Fun fact : I'm batman
 
