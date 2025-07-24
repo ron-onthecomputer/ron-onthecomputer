@@ -2,7 +2,6 @@
 
 - 🔭 An aspiring Fullstack Developer
 - 🚀 [Check Out My Portfolio](https://ron-onthecomputer.github.io/portfolio/)
-- 🌱 I’m currently learning React
 - ⚡ Fun fact : I'm batman
 
 # 💻 Tech Stack:
