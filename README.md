@@ -1,7 +1,7 @@
 ## Hi there, I'm Ron 👋
-
+- 🎨Fronted Developer
 - 🔭 An aspiring Fullstack Developer
-- 🚀 [Check Out My Portfolio](https://ron-onthecomputer.github.io/portfolio/)
+- 🚀 [Check Out My Portfolio]([https://ron-onthecomputer.github.io/portfolio/](https://ngonirupiya-portfolio.vercel.app/))
 - ⚡ Fun fact : I'm batman
 
 # 💻 Tech Stack:
