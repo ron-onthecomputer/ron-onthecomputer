@@ -1,6 +1,7 @@
 ## Hi there, I'm Ron 👋
-- 🎨Fronted Developer
-- 🔭 An aspiring Fullstack Developer
+- Fullstack Developer
+- Star any of my projects if you like them
+- Open to collaborations 
 - 🚀 [My Portfolio](https://ngonirupiya-portfolio.vercel.app/)
 
 # 💻 Tech Stack:
